@@ -1,4 +1,4 @@
-$url = "WALLPAPER URL HERE"
+$url = "https://florianmoreno.fr/assets/img/bg-header.jpg"
 
 $ext = $url.split(".")[-1]
 
